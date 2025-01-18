@@ -4,7 +4,7 @@ This is a Java-based game. You can download and run the game using the following
 
 ## Instructions:
 
-1. Download the JAR file: [game.jar](link_to_game_jar_file).
+1. Download the JAR file: [game.jar](https://github.com/Hammy-t/Coding-in-Java/raw/main/chomp_game/game.jar).
 2. Make sure you have **Java** installed on your system.
    - To check if Java is installed, run:
      ```bash
